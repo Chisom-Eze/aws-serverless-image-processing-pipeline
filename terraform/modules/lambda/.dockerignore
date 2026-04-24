@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.zip
+.git
+.gitignore
+Dockerfile
+.dockerignore
+.vscode
+.idea
