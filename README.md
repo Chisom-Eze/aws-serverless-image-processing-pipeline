@@ -22,7 +22,9 @@ This project demonstrates a real-world event-driven architecture where users upl
 
 ## Architecture
 
-![Architecture](screenshots/architecture.png)
+<p align="center">
+  <img src="screenshots/architecture.png" width="800">
+</p>
 
 ### Workflow
 
